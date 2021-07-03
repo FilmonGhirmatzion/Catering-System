@@ -1,0 +1,7 @@
+Separate out print and filewriting methods, since you can't unit test anything that involves files or printouts
+Use LocalDateTime for timestamps
+
+try ctrl shift f for formatting
+
+consider using while loops and break the loop to go to another section of the menu
+
